@@ -1,5 +1,3 @@
-| I born in Ukraine, I can communicate in English mainly through an translator.
+| Born in Ukraine.
 
-| I started programming quite recently, mainly to create mods, add-ons, etc. for various games.
-
-| I am learning programming mainly with the help of video tutorials.
+| Started programming quite recently, mainly to create mods, add-ons, etc. for various games.
